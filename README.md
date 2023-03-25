@@ -12,4 +12,4 @@ O Desafio era criar um gerador de conselhos, como foi proposto no site do [Front
  - CSS3
  - JavaScript
 
-#####[Link do Desafio](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub)
+#####[Link do Desafio](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
